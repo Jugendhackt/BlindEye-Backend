@@ -1,0 +1,14 @@
+{
+  "obstacles": [
+    {
+      "type": "Stair",
+      "name": "Treppenstufe Bahnhof",
+      "lat": 45,
+      "long": 48,
+      "description": "Hier ist eine Treppe, bei welcher man gut stolpern kann",
+      "disabled": false,
+      "timeout": 10,
+      "date": "18.12.2002"
+    }
+  ]
+}
